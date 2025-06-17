@@ -6,6 +6,6 @@ O passo a passo desse processo foi:
 
 #criação das pastas: modulo_01, modulo_02, modulo_3 e arquivos
  - Add File > create new file
- - na parte superior, na qual está o menu (Codigo-da-Transformacao-Python / [espaço] in main), eu adiciono o nome da pasta, acrescento / e adiciono o nome do arquivo logo em seguida. Ficará da seguinte forma: 
+ - na parte superior, na qual está o menu (Codigo-da-Transformacao-Python / [espaço] in main), eu adiciono o nome da pasta, acrescento " / " e adiciono o nome do arquivo logo em seguida. Ficará da seguinte forma: 
 
 Codigo-da-Transformacao-Python / modulo_01 / intruducao.py in main
